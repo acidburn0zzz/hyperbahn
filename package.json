@@ -16,7 +16,7 @@
     "chalk": "1.0.0",
     "collect-parallel": "1.0.1",
     "debug-logtron": "5.0.0",
-    "deep-extend": "0.3.2",
+    "deep-extend": "0.5.1",
     "error": "6.0.0",
     "get-port": "1.0.0",
     "git-repo-info": "1.0.4",
